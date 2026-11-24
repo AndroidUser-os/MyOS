@@ -1,0 +1,8 @@
+*.o
+*.out
+myos
+binos
+.session*.s
+history.log
+__pycache__/
+*.zip
